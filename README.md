@@ -1,7 +1,7 @@
 # iOSGetInTouch
 
 ** iOS Project Submission **
-** MSc Software Engineering - EPITA - Fall 2018 **
+* MSc Software Engineering - EPITA - Fall 2018 *
 
 ### App Name: Get In Touch ####
 
